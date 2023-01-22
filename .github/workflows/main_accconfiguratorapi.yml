@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'AccConfiguratorApi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6AC7C6C963824671BCECA0918E630586 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67A455AF10B4458F83A95C8929DDFB0D }}
           package: .
